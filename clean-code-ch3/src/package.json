@@ -1,5 +1,9 @@
 {
   "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "clean-code-ch3"
+  ],
   "scripts": {
     "build": "slidev build --base /2022/clean-code-ch3/ --out ../../dist/2022/clean-code-ch3",
     "dev": "slidev --open",

@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "talks",
+    "workspaces": [
+        "*/src"
+    ],
+    "scripts": {
+        "build": "yarn workspaces foreach run build",
+        "export": "yarn workspaces foreach run export"
+    },
+    "packageManager": "yarn@3.1.1"
+}
