@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /2022/clean-code-ch3/ --out ../../dist/2022/clean-code-ch3",
+    "dev": "slidev --open",
+    "export": "slidev export --dark --output ../clean-code-ch3"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.28.2",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "clean-codes",
+  "devDependencies": {
+    "@iconify-json/ri": "^1.0.2",
+    "playwright-chromium": "^1.18.1"
+  }
+}
