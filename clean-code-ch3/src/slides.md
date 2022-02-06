@@ -163,6 +163,7 @@ layout: fact
 hideInToc: true
 level: 2
 ---
+
 <div class="text-5xl py-2">
 How short should a function be?<br>
 </div>
@@ -541,7 +542,7 @@ hideInToc: true
 # But there's a catch
 <div v-click>
 
-If you keep your functions **small**, then the occasional multiple `return`, `break`, or `continue` statement does no harm and can sometimes even be more expressive than the single-entry, single-exit rule.
+If you keep your functions <span class="text-green-500">small</span>, then the occasional multiple `return`, `break`, or `continue` statement does no harm and can sometimes even be more expressive than the single-entry, single-exit rule.
 
 </div>
 
