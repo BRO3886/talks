@@ -5,3 +5,8 @@
   from = "/2022/clean-code-ch3/*"
   to = "/2022/clean-code-ch3/index.html"
   status = 200
+
+[[redirects]]
+  from = "/"
+  to = "https://sidv.dev"
+  status = 302
