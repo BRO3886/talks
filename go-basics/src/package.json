@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "go-basics"
+  ],
+  "scripts": {
+    "build": "slidev build --base /2022/go-basics/ --out ../../dist/2022/go-basics",
+    "dev": "slidev --open",
+    "export": "slidev export --dark --output ../go-basics"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.32.3",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-flayyer": "^1.0.2",
+    "slidev-theme-smile": "^0.7.3"
+  },
+  "name": "go-basics",
+  "devDependencies": {
+    "@iconify-json/ri": "^1.0.2",
+    "playwright-chromium": "^1.18.1"
+  }
+}
