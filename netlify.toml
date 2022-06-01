@@ -7,6 +7,11 @@
   status = 200
 
 [[redirects]]
+  from = "/2022/go-basics/*"
+  to = "/2022/go-basics/index.html"
+  status = 200
+
+[[redirects]]
   from = "/"
   to = "https://sidv.dev"
   status = 302
