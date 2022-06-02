@@ -8,7 +8,7 @@
         "build": "yarn workspaces foreach run build && github-readme-to-html -i README.md -t Talks",
         "export": "yarn workspaces foreach run export && github-readme-to-html -i README.md -t Talks"
     },
-    "packageManager": "yarn@3.1.1",
+    "packageManager": "yarn@3.2.1",
     "devDependencies": {
         "@cloudflare/wrangler": "^1.19.12",
         "github-readme-to-html": "^1.0.7"
