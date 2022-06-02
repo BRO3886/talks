@@ -9,7 +9,6 @@
         "export": "npm run export --workspaces && github-readme-to-html -i README.md -t Talks"
     },
     "devDependencies": {
-        "@cloudflare/wrangler": "^1.19.12",
         "github-readme-to-html": "^1.0.7"
     }
 }

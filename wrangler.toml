@@ -1,9 +1,0 @@
-name = "talks"
-type = "webpack"
-workers_dev = false
-site = {bucket = "./dist",entry-point = "workers-site"}
-compatibility_date = "2022-06-01"
-
-[env.production]
-name = "talks"
-route = "talks.sidv.dev/*"
