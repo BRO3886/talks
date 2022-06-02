@@ -10,7 +10,7 @@
     "export": "slidev export --dark --output ../clean-code-ch3"
   },
   "dependencies": {
-    "@slidev/cli": "^0.28.2",
+    "@slidev/cli": "^0.31.1",
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
