@@ -316,6 +316,23 @@ layout: statement
 concurrency, channels, and goroutines
 
 ---
+hideInToc: true
+title: Resources
+---
+# Resources
+
+* [go.dev/doc/](https://go.dev/doc/)
+* [go.dev/blog/](https://go.dev/blog/)
+* [dave.cheney.net/](https://dave.cheney.net/)
+* [github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
+* [youtube.com/c/GolangDojo](https://www.youtube.com/c/GolangDojo)
+* [youtube.com/c/Tutorialedge/](https://www.youtube.com/c/Tutorialedge/)
+* [Creating web applications with Go - Mike Van Sickle](https://www.pluralsight.com/courses/creating-web-applications-go-update)
+* [Go - The Complete Developer's Guide - Stephen Grider](https://www.udemy.com/course/go-the-complete-developers-guide/)
+
+
+
+---
 layout: center
 hideInToc: true
 class: 'text-center pb-5 :'
