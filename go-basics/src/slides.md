@@ -56,6 +56,7 @@ title: Why Go
 * Replacement of C++, at Google
 * Plagued by slow compilation, not impressed by unecessary features
 * need of _concurrency_ on fingertips (imagine scale of Google)
+* Less boilerplate code (not exactly object-oriented)
 * Less is (exponentially) more
 
 ---
@@ -260,6 +261,9 @@ hideInToc: true
 title: Structs
 ---
 ## Structs
+
+Remeber C?
+
 ```go {all|5-9|12|13|all}
 package main
 
