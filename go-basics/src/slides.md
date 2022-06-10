@@ -285,7 +285,7 @@ hideInToc: true
 title: Arrays and slices
 ---
 ## Arrays and slices
-```go {all|6-10|12-15|all}
+```go {all|6-10|12-15|14|all}
 package main
 
 import "fmt"
@@ -317,7 +317,7 @@ title: Moving forward
 layout: statement
 ---
 # Do explore
-concurrency, channels, and goroutines
+concurrency, channels, interface, and goroutines
 
 ---
 hideInToc: true
