@@ -69,6 +69,17 @@ Only 25 keywords (+1 after go1.18)
 
 ---
 hideInToc: true
+title: Go
+---
+# Go
+* Fast (compiled to native code)
+* Concurrency
+* Simple
+* Easy to learn
+* Easy to write "good" code which needs to be maintained by large teams (set of default rules)
+
+---
+hideInToc: true
 title: Basics of Go title slide
 layout: section
 ---
@@ -199,6 +210,19 @@ for  {
     // runs indefinitely
 }
 ```
+
+---
+hideInToc: true
+title: If-else
+---
+```go
+if 7%2 == 0 {
+    fmt.Println("7 is even")
+} else {
+    fmt.Println("7 is odd")
+}
+```
+
 ---
 hideInToc: true
 title: Switch
