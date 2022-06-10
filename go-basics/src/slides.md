@@ -310,7 +310,7 @@ hideInToc: true
 title: Arrays and slices
 ---
 ## Arrays and slices
-```go {all|6-10|12-15|14|all}
+```go {all|6-10|12-15|13|all}
 package main
 
 import "fmt"
